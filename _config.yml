@@ -1,7 +1,7 @@
 name: Broward College   Kenpo Kobudo Martial Arts Club
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.610963213024661
+layout_spectrum: 0.31126
+typography_spectrum: 0.43528
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#121317'
+    - '#e3dedb'
+    - '#693633'
+    - '#bdae9b'
+    - '#97744e'
   brandStrength: 0.31984717096202075
-  lightness: 0.5971325091086328
-  saturation: 0.3030037183780223
-  rhythmicContrast: 0.7717379927635193
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
